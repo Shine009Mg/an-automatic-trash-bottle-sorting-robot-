@@ -1,10 +1,11 @@
-<img width="437" height="435" alt="Final present project (1) (1)" src="https://github.com/user-attachments/assets/52111820-e4a7-4b4b-8cc3-480d08f951af" />
 Robotics and Automation System Engineering Project-1
 # Smart Bottle Sorting Robot
 
 An automated bottle sorting system developed as an engineering project for the **Robotics and Automation System** program.
 
 The system uses an **ESP32 and multiple sensors** to detect bottle characteristics, process the collected data, and automatically sort bottles into different compartments.
+
+<img width="437" height="435" alt="Final present project (1) (1)" src="https://github.com/user-attachments/assets/52111820-e4a7-4b4b-8cc3-480d08f951af" />
 
 ## Objectives
 
