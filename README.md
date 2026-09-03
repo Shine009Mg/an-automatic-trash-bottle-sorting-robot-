@@ -1,11 +1,11 @@
 Robotics and Automation System Engineering Project-1
-# ♻️ Smart Bottle Sorting Robot
+# Smart Bottle Sorting Robot
 
 An automated bottle sorting system developed as an engineering project for the **Robotics and Automation System** program.
 
 The system uses an **ESP32 and multiple sensors** to detect bottle characteristics, process the collected data, and automatically sort bottles into different compartments.
 
-## 🎯 Objectives
+## Objectives
 
 * Automate the bottle sorting process
 * Detect and classify bottles using sensors
@@ -14,7 +14,7 @@ The system uses an **ESP32 and multiple sensors** to detect bottle characteristi
 * Reduce the need for manual waste separation
 * Monitor the system using an IoT dashboard
 
-## ⚙️ System Overview
+## System Overview
 
 The bottle is placed on a rotating sorting plate. A **load cell** measures its weight while an **inductive proximity sensor** detects metallic material. Ultrasonic and magnetic sensors are also used for object and position detection.
 
@@ -34,7 +34,7 @@ Servo Motor
 Correct Compartment
 ```
 
-## 🔧 Hardware
+## Hardware
 
 * ESP32
 * Load Cell + HX711
@@ -48,7 +48,7 @@ Correct Compartment
 * LM2596 DC-DC Step-Down Module
 * Li-ion Batteries
 
-## 🧠 Main Features
+## Main Features
 
 * Automatic bottle detection
 * Weight measurement
@@ -59,13 +59,13 @@ Correct Compartment
 * LCD and LED status indication
 * IoT dashboard monitoring
 
-## 🏗️ Mechanical Design
+## Mechanical Design
 
 The system uses a cylindrical bin structure with steel support bars. The sorting plate is located at the center and connected to the sorting mechanism.
 
 The compartments are arranged at approximately **120° angles**, allowing the rotating plate to direct bottles into the appropriate section.
 
-## 🧪 Testing & Improvements
+## Testing & Improvements
 
 During development, several problems were encountered and improved:
 
@@ -75,13 +75,13 @@ During development, several problems were encountered and improved:
 * **Unstable voltage** → added an LM2596 voltage regulator.
 * **CAD and physical dimension mismatch** → updated the SolidWorks dimensions based on actual measurements.
 
-## 🚧 Current Status
+## Current Status
 
 The mechanical and electronic systems have been developed and tested, and an IoT dashboard has been created.
 
 The remaining work includes **real-time ESP32-to-web communication, final system integration, and further performance testing**.
 
-## 👥 Team
+## Team
 
 * Arisara Dachthongkum
 * Shine Lin Htet
