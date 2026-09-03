@@ -64,6 +64,10 @@ Correct Compartment
 ## Mechanical Design
 <img width="439" height="582" alt="Final present project (2)" src="https://github.com/user-attachments/assets/d754c8a7-b615-43ca-9c8c-768c6e4e61de" />
 
+## User Interface 
+<img width="1280" height="578" alt="photo_2026-09-04_00-39-00" src="https://github.com/user-attachments/assets/974273db-7539-4762-857c-2aee37f85647" />
+
+
 
 The system uses a cylindrical bin structure with steel support bars. The sorting plate is located at the center and connected to the sorting mechanism.
 
