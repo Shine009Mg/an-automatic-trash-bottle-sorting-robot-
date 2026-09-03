@@ -62,6 +62,8 @@ Correct Compartment
 * IoT dashboard monitoring
 
 ## Mechanical Design
+<img width="439" height="582" alt="Final present project (2)" src="https://github.com/user-attachments/assets/d754c8a7-b615-43ca-9c8c-768c6e4e61de" />
+
 
 The system uses a cylindrical bin structure with steel support bars. The sorting plate is located at the center and connected to the sorting mechanism.
 
