@@ -65,27 +65,4 @@ The system uses a cylindrical bin structure with steel support bars. The sorting
 
 The compartments are arranged at approximately **120° angles**, allowing the rotating plate to direct bottles into the appropriate section.
 
-## Testing & Improvements
-
-During development, several problems were encountered and improved:
-
-* **Unstable tank structure** → reinforced the structure with additional support.
-* **Servo positioning error** → added a 360° servo with magnets and a magnetic sensor for position control.
-* **Crowded wiring** → designed a larger 3D-printed electronics box.
-* **Unstable voltage** → added an LM2596 voltage regulator.
-* **CAD and physical dimension mismatch** → updated the SolidWorks dimensions based on actual measurements.
-
-## Current Status
-
-The mechanical and electronic systems have been developed and tested, and an IoT dashboard has been created.
-
-The remaining work includes **real-time ESP32-to-web communication, final system integration, and further performance testing**.
-
-## Team
-
-* Arisara Dachthongkum
-* Shine Lin Htet
-* Sorawit Somponwattana
-* Pattanawit Suriyo
-
 **Robotics and Automation System — Engineering Project**
